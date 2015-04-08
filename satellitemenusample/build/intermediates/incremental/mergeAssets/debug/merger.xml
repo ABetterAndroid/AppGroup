@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="D:\Android\Project\MyApplication\satellitemenusample\build\intermediates\exploded-aar\MyApplication\satellitemenu\unspecified\assets"/></dataSet><dataSet config="main"><source path="D:\Android\Project\MyApplication\satellitemenusample\src\main\assets"/></dataSet><dataSet config="debug"><source path="D:\Android\Project\MyApplication\satellitemenusample\src\debug\assets"/></dataSet></merger>
